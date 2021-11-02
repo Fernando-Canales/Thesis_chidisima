@@ -1,0 +1,19 @@
+\begin{thebibliography}{}
+\providecommand\natexlab[1]{#1}
+\providecommand\JournalTitle[1]{#1}
+
+\bibitem[{{Barrag{\'a}n} {et~al.}(2021){Barrag{\'a}n}, {Aigrain}, {Gillen}, \&
+  {Guti{\'e}rrez-Canales}}]{2021RNAAS...5...51B}
+{Barrag{\'a}n}, O., {Aigrain}, S., {Gillen}, E., \& {Guti{\'e}rrez-Canales}, F.
+  2021,
+  \href{http://dx.doi.org/10.3847/2515-5172/abef70}{\JournalTitle{Research
+  Notes of the American Astronomical Society}, 5, 51}
+
+\bibitem[{{Nagel} {et~al.}(2021){Nagel}, {Guti{\'e}rrez-Canales},
+  {Morales-Guti{\'e}rrez}, \& {Sousa}}]{2021RMxAA..57..433N}
+{Nagel}, E., {Guti{\'e}rrez-Canales}, F., {Morales-Guti{\'e}rrez}, S., \&
+  {Sousa}, A.~P. 2021,
+  \href{http://dx.doi.org/10.22201/ia.01851101p.2021.57.02.15
+  pdf}{\JournalTitle{\rmxaa}, 57, 433}
+
+\end{thebibliography}

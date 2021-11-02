@@ -1,0 +1,71 @@
+                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                %  Template for making a very nice thesis %  
+                %              		                  %  
+                %    Carlos Fernando Gutiérrez Canales    % 
+                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[10pt,letterpaper,twoside,openright]{report}
+
+%Packages
+\include{P/packages}
+
+\include{P/commands}
+
+%Let's write the title of the thesis
+\title{
+{Title}\\
+{\large University}\\
+{\includegraphics{images/UGTO.png}}
+}
+
+%Let's put author's name
+\author{Author}
+
+\begin{document}
+
+%Let's put the title page
+\input{front/title_page}
+
+%Let's put the epigraphs
+\input{front/epigraphs}
+
+%Lets put the abstract
+\input{front/abstract}
+
+%Let's put the dedicatory
+\input{front/dedicatory}
+
+%Let's put the list of contents
+\listofcontents
+
+%Let's put the list of figures
+\listoffigures
+
+%Let's put the list of tables
+\listoftables
+
+%Let's call the Introduction
+\chapter{Introduction}
+\epigraph{No.}{William Shakespeare, Hamlet, Act III.}
+\input{chapters/introduction}
+
+%Let's call the Second Chapter
+\chapter{Second Chapter}
+\input{chapters/chapter02}
+
+%Let's call the Conclusions
+\chapter{Conclusions}
+\input{chapters/conclusions}
+
+%Let's call the appendix
+\appendix
+\chapter{Appendix Name}
+\input{appendix/ap1}
+
+\pagestyle{plain}
+
+%Let's call the bibliography
+\bibliography{biblios/reference}
+\bibliographystyle{biblios/yahapj}
+
+\end{document}
+

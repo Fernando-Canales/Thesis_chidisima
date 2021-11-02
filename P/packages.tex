@@ -1,0 +1,39 @@
+%Let's call the packages
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{dirtytalk}
+\usepackage{epigraph}
+\usepackage{mathtools}
+\usepackage{float}
+\usepackage{tablefootnote}
+\usepackage{pdfpages}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{graphicx}
+%\usepackage[dvipsnames]{xcolor}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[round,authoryear]{natbib}
+\usepackage[a4paper,width=150mm, bottom = 25mm, top = 25mm, bindingoffset = 6mm]{geometry}
+%Fancy Chapter section
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[RO,LE]{Title}
+\fancyfoot{}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[LO,CE]{Chapter \thechapter}
+\fancyfoot[CO,RE]{Author.}
+\graphicspath{{images/}}
+%Hyper setup
+\usepackage[breaklinks, colorlinks, urlcolor=blue, citecolor=blue, linkcolor=blue]{hyperref}
+\hypersetup{
+    colorlinks = true,
+    linkcolor=blue,
+    urlcolor=blue,
+}
+\usepackage{sectsty}
+\sectionfont{\sffamily\large}
+\subsectionfont{\sffamily\normalsize}
+
+\renewcommand{\baselinestretch}{1.25}
