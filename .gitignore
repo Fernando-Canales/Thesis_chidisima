@@ -1,0 +1,23 @@
+#Ignore to track all the following types of files
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.lot
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+*~
+./*/*.aux
+./*/*.bbl
+./*/*.blg
+./*/*.lof
+./*/*.log
+./*/*.lot
+./*/*.out
+./*/*.pdf
+./*/*.synctex.gz
+./*/*.toc
+./*/*~
