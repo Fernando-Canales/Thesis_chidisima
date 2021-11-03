@@ -27,7 +27,7 @@ commands used. All in two files:
 	* dedicatory.tex: Put the name of that special person here <3
 	* epigraphs.tex: If you are a little bit pretentious like myself 
 	(just a little bit!) then you can add some epigraphs to your thesis 
-	with the command \epigraph{}.
+	with the command `\epigraph{}`.
 
 * chapters: This directory contains the files for the chapters of your thesis.
 	* introduction.tex: Put the introduction here. In this file I added
