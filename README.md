@@ -7,7 +7,7 @@ e-mail: carl.cfgc@gmail.com
 The thesis template presented in here can be used, modified and/or shared
 freely without my permission. I have been compiled all the .tex files in
 the Linux Terminal of Ubuntu 20.04 LTS. This template is strongly based on the
-tesis_chidisima thesis template by Dr.Oscar Barragán, that can be consulted
+_tesis_chida_ template by Dr.Oscar Barragán, that can be consulted
 in its github repository [here](https://github.com/oscaribv/thesis_chida)
 
 ## Contents
@@ -39,6 +39,6 @@ commands used. All in two files: packages.tex and commands.tex
 	* reference.bib: This file contains two cites using the bibtex 
 	bibliography style.
 	* yahapj.bst: This file is written in the BST language. Is an  ApJ bibtex style file.
-	 Details in  github's [tex-stuff](https://github.com/pkgw/tex-stuff/)
+	 Details in Peter William's  github repo [tex-stuff](https://github.com/pkgw/tex-stuff/)
 
 * images: This directory contains an image of the Arkham Asylum
