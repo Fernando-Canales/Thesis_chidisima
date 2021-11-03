@@ -5,14 +5,18 @@ e-mail: carl.cfgc@gmail.com
 ## Last Update: 2-Nov-2021
 
 The thesis template presented in here can be used, modified and/or shared
-freely without my permission. I have been compiled all the .tex files in
+freely without my permission. I have compiled all the .tex files in
 the Linux Terminal of Ubuntu 20.04 LTS. This template is strongly based on the
 _tesis_chida_ template by Dr.Oscar Barragán, that can be consulted
-in its github repository [here](https://github.com/oscaribv/thesis_chida)
+in its [github repo](https://github.com/oscaribv/thesis_chida)
 
 ## Contents
 * P: This directory contains the packages used in this template, as well as the
-commands used. All in two files: packages.tex and commands.tex
+commands used. All in two files:
+	* packages.tex: In this file all the needed packages for writing a thesis
+	are present. If you need any other packages, call them in this file.
+	* commands.tex: In this file usefuls commands and abreviations are written.
+	Put your own commands and abreviations in this file. 
 
 * front: This directory contains the files that are in the first pages of the thesis
 	* title_page.tex: The title page of your thesis can be easily done
@@ -39,6 +43,6 @@ commands used. All in two files: packages.tex and commands.tex
 	* reference.bib: This file contains two cites using the bibtex 
 	bibliography style.
 	* yahapj.bst: This file is written in the BST language. Is an  ApJ bibtex style file.
-	 Details in Peter William's  github repo [tex-stuff](https://github.com/pkgw/tex-stuff/)
+	 Details in Peter William's [github repo](https://github.com/pkgw/tex-stuff/)
 
 * images: This directory contains an image of the Arkham Asylum
