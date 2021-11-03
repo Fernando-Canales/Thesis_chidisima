@@ -21,6 +21,8 @@ commands used. All in two files: packages.tex and commands.tex
 
 +appendix
 
-+biblios
++biblios :
+	-yahapj.bst : This file is written in the BST language.Is an  ApJ bibtex style file
+	 Details in here https://github.com/pkgw/tex-stuff/
 
 +images
