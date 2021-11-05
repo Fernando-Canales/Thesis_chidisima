@@ -10,29 +10,21 @@
 
 \include{P/commands}
 
-%Let's write the title of the thesis
-\title{
-{Title}\\
-{\large University}\\
-{\includegraphics{images/UGTO.png}}
-}
-
-%Let's put author's name
-\author{Author}
-
 \begin{document}
 
-%Let's put the title page
-\input{front/title_page}
+%Let's call the first pages of te thesis
 
-%Let's put the epigraphs
-\input{front/epigraphs}
+	%Let's put the title page
+	\input{front/title_page}
 
-%Lets put the abstract
-\input{front/abstract}
+	%Let's put the epigraphs
+	\input{front/epigraphs}
 
-%Let's put the dedicatory
-\input{front/dedicatory}
+	%Lets put the abstract
+	\input{front/abstract}
+	
+	%Let's put the dedicatory
+	\input{front/dedicatory}
 
 %Let's put the list of contents
 \listofcontents
@@ -61,7 +53,6 @@
 \chapter{Appendix Name}
 \input{appendix/ap1}
 
-\pagestyle{plain}
 
 %Let's call the bibliography
 \bibliography{biblios/reference}
