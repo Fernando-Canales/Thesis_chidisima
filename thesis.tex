@@ -14,24 +14,23 @@
 
 %Let's call the first pages of te thesis
 
-%This line makes the first pages of the thesis to be not affected by our settings
-% of the fancy packages 
+%This line make the following pages to not follow our fancy settings
 \pagestyle{plain}
 
-	%Let's put the title page
-	\input{front/title_page}
+%Let's put the title page
+\input{front/title_page}
 
-	%Let's put the publicity here ;-)	
-	\input{front/publicity}
+%Let's put the publicity here ;-)	
+\input{front/publicity}
 
-	%Let's put the epigraphs
-	\input{front/epigraphs}
+%Let's put the epigraphs
+\input{front/epigraphs}
 
-	%Lets put the abstract
-	\input{front/abstract}
+%Lets put the abstract
+\input{front/abstract}
 	
-	%Let's put the dedicatory
-	\input{front/dedicatory}
+%Let's put the dedicatory
+\input{front/dedicatory}
 
 %Let's put the table of contents
 \tableofcontents
@@ -44,21 +43,19 @@
 
 %Now, let's call the main body of the thesis.
 
-%This line makes the following pages to follow  our settings with the fancy settings. But is better to put it at the beginning of the intro.tex file
-%\pagestyle{fancy}
-
 %Let's call the Introduction
-	\chapter{Introduction}
-	\epigraph{No.}{William Shakespeare, Hamlet, Act III.}
-	\input{chapters/introduction}
+\chapter{Introduction}
+%If you want an epigraph for each chapter, do it this way
+\epigraph{No.}{William Shakespeare, Hamlet, Act III.}
+\input{chapters/introduction}
 
 %Let's call the Second Chapter
-	\chapter{Second Chapter}
-	\input{chapters/chapter02}
+\chapter{Second Chapter}
+\input{chapters/chapter02}
 
 %Let's call the Conclusions
-	\chapter{Conclusions}
-	\input{chapters/conclusions}
+\chapter{Conclusions}
+\input{chapters/conclusions}
 
 %Let's call the appendix
 \appendix

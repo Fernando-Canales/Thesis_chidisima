@@ -1,13 +1,13 @@
-# Thesis_chidisima
-## Created by Fernando Gutiérrez-Canales
+# Thesis_chidisima :book:
+## Created by [https://twitter.com/ferdunkand](Fernando Gutiérrez-Canales)
 e-mail: carl.cfgc@gmail.com
 
 ## Last Update: 2-Nov-2021
 
 The thesis template presented in here can be used, modified and/or shared
 freely without my permission. I have compiled all the .tex files in
-the Linux Terminal of Ubuntu 20.04 LTS. This template is strongly based on the
-_tesis_chida_ template by Dr.Oscar Barragán, that can be consulted
+the Linux Terminal of Ubuntu 20.04 LTS. This template is based on the
+_tesis_chida_ template by Dr. Oscar Barragán, that can be consulted
 in its [github repo](https://github.com/oscaribv/thesis_chida)
 
 ## Contents
