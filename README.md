@@ -1,6 +1,8 @@
 # Thesis_chidisima :book:
-## Created by [Fernando Gutiérrez-Canales](https://twitter.com/ferdunkand)
+## Created by Fernando Gutiérrez-Canales
 e-mail: carl.cfgc@gmail.com
+
+[![Twitter URL](https://img.shields.io/twitter/follow/ferdunkand?style=social)](https://twitter.com/ferdunkand)
 ## Last Update: 2-Nov-2021
 
 The thesis template presented in here can be used, modified and/or shared
