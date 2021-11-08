@@ -1,4 +1,4 @@
-# Thesis_chidisima template
+# Thesis_chidisima
 ## Created by Fernando Gutiérrez-Canales
 e-mail: carl.cfgc@gmail.com
 
@@ -24,10 +24,11 @@ commands used. All in two files:
 	* abstract.tex: Put the abstract here, where the '...' are. Also,
 	I added the questions that any good abstract have to answer, according
 	to Dr.Oscar Barragán.
-	* dedicatory.tex: Put the name of that special person here <3
+	* dedicatory.tex: Put the name of that special person here :heart: 
 	* epigraphs.tex: If you are a little bit pretentious like myself 
 	(just a little bit!) then you can add some epigraphs to your thesis 
-	with the command `\epigraph{}`.
+	with the command `\epigraph{}`. I already put some epigraphs on this
+	file as an example of how they look on the resulting pdf
 
 * chapters: This directory contains the files for the chapters of your thesis.
 	* introduction.tex: Put the introduction here. In this file I added
@@ -43,6 +44,10 @@ commands used. All in two files:
 	* reference.bib: This file contains two cites using the bibtex 
 	bibliography style.
 	* yahapj.bst: This file is written in the BST language. Is an  ApJ bibtex style file.
-	 Details in Peter William's [github repo](https://github.com/pkgw/tex-stuff/)
+	This means that we can mimic the ApJ style by using this file as the
+	bibliography style of our thesis document. All the details can be
+	found in Peter William's [github repo](https://github.com/pkgw/tex-stuff/)
 
-* images: This directory contains an image of the Arkham Asylum
+* images: This directory contains an image of the Arkham Asylum. This is the
+	image of the title of the thesis. If you want to put the 'logo' of
+	your Uni, put it here.

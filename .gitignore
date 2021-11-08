@@ -6,7 +6,7 @@
 *.log
 *.lot
 *.out
-*.pdf
+*.dvi
 *.synctex.gz
 *.toc
 *~
