@@ -42,8 +42,8 @@ commands used. All in two files:
 	* ap1.tex: Put the appendix here.
 
 * biblios : This directory contains two files. The first one is the .bib file
-	in which all the references has to be. The second one a .bst file that
-	is used as the bibliography style file.
+	in which all the references have to be. The second one is a .bst file
+	that is used as the bibliography style file.
 	* reference.bib: This file contains two cites using the bibtex 
 	bibliography style as an example. The cites come from
 	[ADS](https://ui.adsabs.harvard.edu/)
