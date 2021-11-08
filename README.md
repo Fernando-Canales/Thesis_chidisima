@@ -1,7 +1,6 @@
 # Thesis_chidisima :book:
-## Created by Fernando Gutiérrez-Canales
+## Created by [Fernando Gutiérrez-Canales](https://twitter.com/ferdunkand)
 e-mail: carl.cfgc@gmail.com
-[![Twitter URL](https://img.shields.io/endpoint?label=Follow%20%40ferdunkand&logo=Twitter&style=social)](https://twitter.com/ferdunkand)
 ## Last Update: 2-Nov-2021
 
 The thesis template presented in here can be used, modified and/or shared
@@ -45,7 +44,7 @@ commands used. All in two files:
 	is used as the bibliography style file.
 	* reference.bib: This file contains two cites using the bibtex 
 	bibliography style as an example. The cites come from
-	[https://ui.adsabs.harvard.edu/](NASA/ADS)
+	[ADS](https://ui.adsabs.harvard.edu/)
 	* yahapj.bst: This file is written in the BST language. Is an  ApJ bibtex style file.
 	This means that we can mimic the ApJ style by using this file as the
 	bibliography style of our thesis document. All the details can be
